@@ -29,7 +29,8 @@ Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a 
 ## 🎓 Education
 
 - **Master of Engineering in Systems and Technology**, McMaster University (2025)
-- **Bachelor of Techonology - Automotive Engineering**, McMAster University (2021)
+- **Bachelor of Techonology - Automotive Engineering**, McMaster University (2021)
+- **Ontario Secondary School Diploma** Cathedral Highschool - School Letter Award (2016) , 
 
 ---
 
