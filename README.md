@@ -1,4 +1,4 @@
-# sebastianriveraportfolio
+# Sebastian Rivera 
 
 Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a strong background in AI, autonomy, electric motors, and robotics. Below you'll find a selection of my featured projects and background.
 
@@ -28,8 +28,8 @@ Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a 
 
 ## 🎓 Education
 
-- **Master of Engineering in Systems and Technology**, McMaster University (2024)
-- **Bachelor of Engineering in Mechatronics**, [Your Undergrad School] (Year)
+- **Master of Engineering in Systems and Technology**, McMaster University (2025)
+- **Bachelor of Techonology - Automotive Engineering**, McMAster University (2021)
 
 ---
 
@@ -37,8 +37,7 @@ Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a 
 
 Feel free to reach out via:
 - **LinkedIn**: [linkedin.com/in/sebastianrivera](#)
-- **Website**: [sebastianrivera.ca](https://www.sebastianrivera.ca/)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [riveraas@mcmaster.ca]
 
 ---
 
