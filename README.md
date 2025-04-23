@@ -37,7 +37,7 @@ Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a 
 
 Feel free to reach out via:
 - **LinkedIn**: [linkedin.com/in/sebastianrivera](#)
-- **Email**: [riveraas@mcmaster.ca]
+- **Email**: [riveraas@mcmaster.ca](#)
 
 ---
 
