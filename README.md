@@ -44,20 +44,45 @@ Below are links to the final technical report and project poster.
 
 ### 📄 Human Pose Estimation Using Deep Learning (PoseNet Project)
 
-This project explores human pose estimation using multiple deep learning models including PoseNet, HRNet, MediaPipe, and OpenPose. The models were trained and evaluated using the COCO dataset. Our team assessed performance using standard metrics like mAP and PCK, and implemented pose keypoint visualizations with real-world input images.
+This project explored human pose estimation using four leading deep learning models: **PoseNet**, **HRNet**, **MediaPipe**, and **OpenPose**. The goal was to detect and visualize human body keypoints using convolutional neural networks (CNNs) and benchmark model performance across real-world scenarios.
 
-- **Models Used**: PoseNet, HRNet, OpenPose, MediaPipe
-- **Dataset**: Microsoft COCO val2017
+We used the **COCO val2017 dataset**, which includes 5,000+ images annotated with 17 keypoints per person. Our team evaluated each model using industry-standard metrics such as **Mean Average Precision (mAP)** and **Percentage of Correct Keypoints (PCK)**.
+
+---
+
+### 🔧 Implementation Highlights
+As part of the implementation, we:
+- Preprocessed over 5,000 COCO images for input standardization
+- Compared model accuracy and inference performance across CPU and GPU environments
+- Visualized predicted poses using OpenCV keypoint skeletons
+- Integrated **PoseNet** via TensorFlow.js for lightweight, browser-based inference
+- Benchmarked single-person and multi-person detection scenarios
+
+---
+
+### 🔍 Key Observations
+- **PoseNet**: Fast and browser-deployable with lower accuracy (~63.9% PCK)
+- **OpenPose**: Strong performance in multi-person detection (~72% PCK)
+- **MediaPipe**: Balanced speed and accuracy for single-person use
+- **HRNet**: Highest precision (~74.4% mAP) but most computationally intensive
+
+---
+
+### 📊 Project Summary
+- **Models Used**: PoseNet, HRNet, OpenPose, MediaPipe  
+- **Dataset**: Microsoft COCO val2017  
 - **Key Contributions**:
-  - Training and evaluation of 4 pose estimation models
-  - Deployment and benchmarking of PoseNet using TensorFlow and PyTorch
-  - Visualization of keypoints and skeletons on test images
-- **Tech Stack**: Python, PyTorch, TensorFlow, COCO API, OpenCV
+  - Trained and evaluated 4 advanced pose estimation models
+  - Deployed PoseNet using TensorFlow.js and PyTorch
+  - Rendered visual outputs with pose keypoints and skeletal structures
 
-[📄 View Full PoseNet Report (PDF)](./docs/pdf/SEP740_Project_Report.pdf)
+- **Tech Stack**: Python, PyTorch, TensorFlow, OpenCV, COCO API, MediaPipe, TensorFlow.js
 
+---
 
-
+### 📁 Project Files
+- 📄 [Final Project Report (PDF)](./docs/pdf/SEP740_Project_Report.pdf)
+- 🖼️ [Project Poster (PDF/Image)](./docs/pdf/PoseNet_Poster.pdf)
 
 ---
 
