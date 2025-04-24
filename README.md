@@ -4,9 +4,9 @@ Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a 
 
 ---
 
-## 🚀 Projects
+ 🚀 Projects
 
-### 🔍 Autonomous Vehicle Perception System
+# 🔍 Autonomous Vehicle Perception System
 - **Description**:  This Master’s-level engineering project focused on solving real-world challenges in collaboration with community partners in the Greater Toronto Area (GTA). We developed a road and sidewalk segmentation system using YOLOP on NVIDIA Jetson Orin to enhance autonomous navigation and pedestrian safety. The project spanned two academic terms and involved structured planning, technical implementation, and public impact considerations. Project coordination, planning milestones, and stakeholder engagement were managed using Microsoft Teams, while final deliverables and presentations were developed using Microsoft PowerPoint
 Below are links to the final technical report and project poster.
 - **Key Features**:
