@@ -103,7 +103,7 @@ As part of the implementation, we:
 
 Feel free to reach out via:
 
-- **LinkedIn**: [linkedin.com/in/sebastianrivera](https://www.linkedin.com/in/sebastianrivera)
+- **LinkedIn**: [linkedin.com/in/sebastianrivera](hwww.linkedin.com/in/sebasrivera)
 - **Email**: [riveraas@mcmaster.ca](mailto:riveraas@mcmaster.ca)
 
 ---
