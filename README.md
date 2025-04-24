@@ -19,15 +19,82 @@ Below are links to the final technical report and project poster.
 
 ---
 
-### 🤖 Smart Food-Serving Robot (Capstone Project)
-- **Description**: Designed and built a robot capable of autonomously serving food items, optimized for indoor navigation in dynamic environments.
-- **Key Features**:
-  - Path planning and obstacle avoidance
-  - Custom CAD and 3D printed parts
-- **Tech Stack**: Arduino, C++, Python, CAD, Ultrasonic sensors
-- **Links**:
-  - [GitHub Repository](#)
-  - [Project Demo](#)
+# 🤖 Skip-the-Servers: Autonomous Food Delivery Robot
+
+A capstone project built to tackle the challenges of modern restaurant staffing with robotics and intelligent automation.
+
+---
+
+## 🚀 Overview
+
+**Skip-the-Servers** is a semi-autonomous robot designed to deliver food from the kitchen to customers’ tables while ensuring hygiene, maneuverability, and cost-efficiency. Developed as part of my Bachelor of Technology in Automotive and Vehicle Engineering Technology at McMaster University.
+
+---
+
+## 🔧 Key Features
+
+- 🦾 **Obstacle Avoidance** using ultrasonic sensors for real-time pathfinding
+- ⚙️ **PID Motor Control** for smooth and precise velocity adjustments
+- 🍽️ **Revolving Tray Mechanism** keeps meals covered and ready for delivery
+- 🔋 **Battery Optimized** for ~1h45m continuous operation with low power draw
+- 🛠️ Built using **IKEA VESKEN** frame, 3D-printed custom shafts, and low-cost materials
+
+---
+
+## 🛠️ Engineering Breakdown
+
+### 🧠 Control & Navigation
+- Implemented encoder-based feedback loops using rotary magnetic encoders (64 CPR)
+- Tuned PID controller (`Kp = 0.75`, `Kd = 0.045`) for zero steady-state error
+- Wrote modular Arduino code for sensor handling, motor PWM control, and path logic
+
+### ⚙️ Powertrain & Chassis
+- Motors: Dual 12V Pololu 100:1 Metal Gearmotors (34 kg-cm torque)
+- Velocity target: **0.16 m/s** at optimal efficiency (~39%)
+- Custom 3D-printed shaft designs (2 revisions) to prevent shear failure
+
+### 📡 Sensor System
+- 6 ultrasonic sensors (front, back, sides, and corners) for full-coverage obstacle detection
+- Uses `pulseIn()` with speed-of-sound calculations for distance measurement
+
+---
+
+## 📊 Testing & Calibration
+
+- ✅ Calibrated PWM vs RPM for both motors under load
+- 🧪 Encoder-based velocity monitoring and real-time plotting
+- 📉 Addressed gear ratio mismatches and voltage spikes
+- 📐 Precision chassis and tray mount design via Fusion 360 and SolidWorks
+
+---
+
+## 💡 Skills Applied
+
+- Mechatronics & motor control (DC motors, PID, power management)
+- Embedded systems programming (Arduino IDE, real-time interrupts)
+- Mechanical prototyping (hand tools, CAD, 3D printing)
+- Sensor fusion for autonomous navigation
+
+---
+
+## 🔮 Future Enhancements
+
+- Add **AI-based mapping** and camera-based navigation
+- Introduce **AWD design** for tighter turning radius
+- Upgrade to **ROS or SLAM-based architecture**
+- Integrate **low-pass filters** for cleaner encoder signals
+
+---
+
+📍 **Project Year**: 2021  
+🎓 **Institution**: McMaster University  
+🔗 **Advisor**: Dr. Timber Yuen
+
+---
+
+> _"This project challenged me to combine hardware, code, and control theory into a working solution—laying the foundation for my continued work in robotics and intelligent systems."_
+
+
 
 ---
 
