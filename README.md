@@ -7,11 +7,12 @@ Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a 
 ## 🚀 Projects
 
 ### 🔍 Autonomous Vehicle Perception System
-- **Description**: Developed a road and sidewalk segmentation module using YOLOP on NVIDIA Jetson Orin as part of a vehicle autonomy initiative. Integrated GNSS and ROS to enhance localization and safety for fleet vehicles.
+- **Description**:  This Master’s-level engineering project focused on solving real-world challenges in collaboration with community partners in the Greater Toronto Area (GTA). We developed a road and sidewalk segmentation system using YOLOP on NVIDIA Jetson Orin to enhance autonomous navigation and pedestrian safety. The project spanned two academic terms and involved structured planning, technical implementation, and public impact considerations. Project coordination, planning milestones, and stakeholder engagement were managed using Microsoft Teams, while final deliverables and presentations were developed using Microsoft PowerPoint
+Below are links to the final technical report and project poster.
 - **Key Features**:
   - Real-time segmentation of road environments
   - Edge deployment on Jetson with GNSS and ROS integration
-- **Tech Stack**: Python, YOLOP, ROS, NVIDIA Jetson Orin, GNSS
+- **Tech Stack**: Python, YOLOP, ROS, NVIDIA Jetson Orin, GNSS, Microsoft Teams, PowerPoint
 - **Links**:
   - [GitHub Repository](#)
   - [Live Demo / Video](#)
