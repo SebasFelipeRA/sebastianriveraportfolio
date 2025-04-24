@@ -41,12 +41,20 @@ Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a 
 
 ---
 
-### 📌 Human Pose Estimation with PoseNet
-- **Description**: Implemented PoseNet to analyze human posture in real time through webcam input. This project was designed to explore keypoint detection accuracy for human activity recognition tasks.
-- **Key Features**:
-  - Real-time body keypoint tracking
-  - Lightweight architecture suitable for browser and edge use
-- **Tech Stack**: TensorFlow.js, PoseNet, HTML/CSS/JS
+### 📄 Human Pose Estimation Using Deep Learning (PoseNet Project)
+
+This project explores human pose estimation using multiple deep learning models including PoseNet, HRNet, MediaPipe, and OpenPose. The models were trained and evaluated using the COCO dataset. Our team assessed performance using standard metrics like mAP and PCK, and implemented pose keypoint visualizations with real-world input images.
+
+- **Models Used**: PoseNet, HRNet, OpenPose, MediaPipe
+- **Dataset**: Microsoft COCO val2017
+- **Key Contributions**:
+  - Training and evaluation of 4 pose estimation models
+  - Deployment and benchmarking of PoseNet using TensorFlow and PyTorch
+  - Visualization of keypoints and skeletons on test images
+- **Tech Stack**: Python, PyTorch, TensorFlow, COCO API, OpenCV
+
+📘 **Full Report**: [SEP740 PoseNet Project Report (PDF)](./SEP740_Project_Report.pdf)
+
 
 ---
 
@@ -67,7 +75,7 @@ Welcome to my personal portfolio! I'm a passionate Mechatronics Engineer with a 
 
 Feel free to reach out via:
 
-- **LinkedIn**: [linkedin.com/in/sebastianrivera](#)  
+- **LinkedIn**: [linkedin.com/in/sebastianrivera](https://www.linkedin.com/in/sebastianrivera)
 - **Email**: [riveraas@mcmaster.ca](mailto:riveraas@mcmaster.ca)
 
 ---
