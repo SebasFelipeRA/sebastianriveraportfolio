@@ -53,7 +53,8 @@ This project explores human pose estimation using multiple deep learning models 
   - Visualization of keypoints and skeletons on test images
 - **Tech Stack**: Python, PyTorch, TensorFlow, COCO API, OpenCV
 
-📘 **Full Report**: [📄 View Full PoseNet Report (PDF)](https://github.com/sebastianriveraportfolio/sebastianriveraportfolio/raw/main/SEP740_Project_Report)
+[📄 View Full PoseNet Report (PDF)](./docs/pdf/SEP740_Project_Report.pdf)
+
 
 
 
