@@ -1,1 +1,58 @@
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #fff;
+      }
+
+      .site-container {
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 0 20px;
+      }
+
+      .navbar {
+        text-align: center;
+        padding: 10px;
+        background-color: #f8f8f8;
+        border-bottom: 1px solid #ccc;
+      }
+
+      .navbar a {
+        margin: 0 15px;
+        text-decoration: none;
+        color: #333;
+      }
+
+      .navbar a:hover {
+        text-decoration: underline;
+      }
+
+      .site-title,
+      .page-header,
+      .page-link {
+        display: none !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="/sebastianriveraportfolio/">Home</a> |
+      <a href="/sebastianriveraportfolio/projects">Projects</a> |
+      <a href="/sebastianriveraportfolio/about">About</a> |
+      <a href="/sebastianriveraportfolio/contact">Contact</a>
+    </div>
+
+    <div class="site-container">
+      {{ content }}
+    </div>
+  </body>
+</html>
