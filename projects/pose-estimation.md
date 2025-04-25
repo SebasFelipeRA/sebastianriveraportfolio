@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Human Pose Estimation 
 permalink: /projects/pose-estimation/
 ---
 
