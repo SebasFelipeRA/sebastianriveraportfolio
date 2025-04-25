@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Projects
-permalink: /projects/
----
 
 <style>
 .site-title,
