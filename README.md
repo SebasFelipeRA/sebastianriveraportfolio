@@ -18,8 +18,8 @@ In collaboration with GoWrench Inc., we developed a **Level 4 autonomous off-roa
 
 The project used the Husky UGV as a research platform and simulated GNSS and IMU data to validate algorithms before real-world deployment. Visual perception was enhanced using YOLOv8 and YOLOP models, which provided both semantic segmentation and depth estimation via stereo vision.
 
-📄 **[Download Final Report (PDF)](./docs/pdf/SEP_799_GoWrench_Autonomous_Vehicle_Final_Report.pdf)**  
-🖼️ **[Download Project Poster (PDF)](./docs/pdf/SEP_799_GoWrench_Project_Poster.pdf)**
+📄 **[Download Final Report (PDF)](./docs/pdf/SEP_799_Final_Report_GoWrench.pdf)**  
+🖼️ **[Download Project Poster (PDF)](./docs/pdf/SEP_799_Final_Digital_Project_Poster.pdf)**
 
 ---
 
