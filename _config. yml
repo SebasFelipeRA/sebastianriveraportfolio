@@ -2,4 +2,6 @@ title: Sebastian Rivera
 #logo: assets/images/profile_circle.png
 description: Mechatronics Engineer | AI & Autonomy | Electric Motors & Robotics
 #show_downloads: false
-theme: jekyll-theme-minimal
+theme: minima
+include:
+ - projects
