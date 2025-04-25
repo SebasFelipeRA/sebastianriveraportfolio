@@ -31,6 +31,9 @@ A capstone project built to tackle the challenges of modern restaurant staffing 
 
 This project was completed during the COVID-19 pandemic with extremely limited resources—no access to manufacturing equipment—requiring creative use of everyday materials, hand tools, and low-cost electronics. It was a true test of engineering under constraint, pushing me to innovate across mechanical design, embedded programming, and control systems.
 
+📄 **[Download the Full Report (PDF)](./docs/pdf/4TR3_Capstone_SKIPTHESERVERS_Final_Report_Sebastian_Rivera.pdf)**
+
+
 ---
 
 ## Key Features
