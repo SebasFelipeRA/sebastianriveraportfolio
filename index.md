@@ -4,7 +4,7 @@ I'm Sebastian Rivera — a Mechatronics Engineer focused on intelligent systems,
 
 ## 🚀 Projects
 
-- [Autonomous Vehicle Perception System 🚗](/projects/gowrench-autonomy/)
+- [Autonomous Vehicle Perception System 🚗](/sebastianriveraportfolio/projects/gowrench-autonomy/)
 - [Skip-the-Servers 🍽️](/projects/skip-the-servers/)
 - [Human Pose Estimation 🧍‍♂️](/projects/pose-estimation/)
 - [MQTT Anomaly Detection 📡](/projects/mqtt-anomaly/)
