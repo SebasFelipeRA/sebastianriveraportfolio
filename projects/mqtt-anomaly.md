@@ -16,7 +16,7 @@ An ensemble strategy combining **LSTM**, **Random Forest**, and **Isolation Fore
 
 📄 **[Download Full Report (PDF)](/sebastianriveraportfolio/docs/pdf/SEP_769_Final_Project_Anomoly_Detection_Final_Report.pdf)**
 
-📥 **[Download Anomaly Detection Project (Zip file with code)](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/projects/SEP_769_Code.zip)**
+📥 **[Download Anomaly Detection Project (Zip file with code)](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/SEP_769_Code.zip)**
 
 ---
 
