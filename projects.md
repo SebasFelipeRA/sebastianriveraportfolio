@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Welcome
+---
 
 <style>
 .site-title,
