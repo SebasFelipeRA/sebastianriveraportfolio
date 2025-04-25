@@ -1,6 +1,5 @@
 ---
 layout: default
-title: SKIPTHESERVERS Capstone 
 permalink: /projects/mqtt-anomaly/
 ---
 # 📡 AI-Based Anomaly Detection in MQTT Data Streams
