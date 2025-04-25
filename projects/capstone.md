@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SKIPTHESERVERS Capstone 
-permalink: /projects/capstone/
+permalink: /pro2jects/capstone/
 ---
 
 # 🤖 Skip-the-Servers: Autonomous Food Delivery Robot
