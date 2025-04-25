@@ -15,6 +15,8 @@ This project tackled the detection of **duplication**, **interception**, and **m
 An ensemble strategy combining **LSTM**, **Random Forest**, and **Isolation Forest** was used to boost classification performance via **majority voting**.
 
 📄 **[Download Full Report (PDF)](/sebastianriveraportfolio/docs/pdf/SEP_769_Final_Project_Anomoly_Detection_Final_Report.pdf)**
+📥 **[Download SEP 769 Anomaly Detection Project 📥](https://github.com/sebasfelipera/sebastianriveraportfolio/raw/main/assets/projects/SEP_769_Code.zip)**
+
 
 ---
 
