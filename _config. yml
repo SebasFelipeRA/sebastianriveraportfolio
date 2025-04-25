@@ -4,4 +4,4 @@ description: Mechatronics Engineer | AI & Autonomy | Electric Motors & Robotics
 #show_downloads: false
 theme: minima
 include:
- - projects
+  - projects
