@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Sebastian Rivera Portfolio
 ---
 
 ## 🚀 Projects
