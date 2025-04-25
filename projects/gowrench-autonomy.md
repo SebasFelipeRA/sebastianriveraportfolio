@@ -1,3 +1,8 @@
+---
+title: Autonomous Vehicle Perception System
+permalink: /projects/gowrench-autonomy/
+---
+
 # 🔍 Autonomous Vehicle Perception System (GoWrench Project)
 
 A Master’s-level engineering project focused on solving real-world mobility challenges using an autonomous off-road robot. Developed in collaboration with GoWrench Inc., this initiative integrates GNSS, ROS, and YOLO-based vision systems to support Level 4 autonomous navigation.
