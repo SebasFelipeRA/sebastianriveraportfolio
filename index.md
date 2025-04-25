@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Welcome to My Portfolio
 ---
 
 <nav style="text-align: center; padding: 10px; background-color: #f8f8f8; border-bottom: 1px solid #ccc; font-family: sans-serif;">
