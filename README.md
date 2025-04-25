@@ -194,7 +194,7 @@ This project tackled the detection of **duplication**, **interception**, and **m
 
 An ensemble strategy combining **LSTM**, **Random Forest**, and **Isolation Forest** was used to boost classification performance via **majority voting**.
 
-📄 **[Download Full Report (PDF)](./docs/pdf/SEP_769_Final_Project_Anomaly_Detection_Final_Report.pdf)**
+📄 **[Download Full Report (PDF)](./docs/pdf/SEP_769_Final_Project_Anomoly_Detection_Final_Report.pdf)**
 
 ---
 
