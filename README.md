@@ -27,9 +27,9 @@ A capstone project built to tackle the challenges of modern restaurant staffing 
 
 ## 🚀 Overview
 
-**Skip-the-Servers** is a semi-autonomous robot designed to deliver food from the kitchen to customers’ tables while ensuring hygiene, maneuverability, and cost-efficiency. Developed as part of my Bachelor of Technology in Automotive and Vehicle Engineering Technology at McMaster University.
+**Skip-the-Servers** is a semi-autonomous food delivery robot developed during my Bachelor of Technology in Automotive and Vehicle Engineering Technology at McMaster University. Designed to address hygiene and staffing challenges in restaurants, the robot navigates autonomously, avoids obstacles, and presents food via a hygienic revolving tray mechanism. 
 
----
+This project was completed during the COVID-19 pandemic with extremely limited resources—no access to manufacturing equipment—requiring creative use of everyday materials, hand tools, and low-cost electronics. It was a true test of engineering under constraint, pushing me to innovate across mechanical design, embedded programming, and control systems.
 
 ## 🔧 Key Features
 
@@ -38,8 +38,6 @@ A capstone project built to tackle the challenges of modern restaurant staffing 
 - 🍽️ **Revolving Tray Mechanism** keeps meals covered and ready for delivery
 - 🔋 **Battery Optimized** for ~1h45m continuous operation with low power draw
 - 🛠️ Built using **IKEA VESKEN** frame, 3D-printed custom shafts, and low-cost materials
-
----
 
 ## 🛠️ Engineering Breakdown
 
@@ -57,8 +55,6 @@ A capstone project built to tackle the challenges of modern restaurant staffing 
 - 6 ultrasonic sensors (front, back, sides, and corners) for full-coverage obstacle detection
 - Uses `pulseIn()` with speed-of-sound calculations for distance measurement
 
----
-
 ## 📊 Testing & Calibration
 
 - ✅ Calibrated PWM vs RPM for both motors under load
@@ -66,16 +62,12 @@ A capstone project built to tackle the challenges of modern restaurant staffing 
 - 📉 Addressed gear ratio mismatches and voltage spikes
 - 📐 Precision chassis and tray mount design via Fusion 360 and SolidWorks
 
----
-
 ## 💡 Skills Applied
 
 - Mechatronics & motor control (DC motors, PID, power management)
 - Embedded systems programming (Arduino IDE, real-time interrupts)
-- Mechanical prototyping (hand tools, CAD, 3D printing)
+- Mechanical prototyping (hand tools, CAD, 3D printing, DIY home design)
 - Sensor fusion for autonomous navigation
-
----
 
 ## 🔮 Future Enhancements
 
@@ -84,8 +76,6 @@ A capstone project built to tackle the challenges of modern restaurant staffing 
 - Upgrade to **ROS or SLAM-based architecture**
 - Integrate **low-pass filters** for cleaner encoder signals
 
----
-
 📍 **Project Year**: 2021  
 🎓 **Institution**: McMaster University  
 🔗 **Advisor**: Dr. Timber Yuen
@@ -93,8 +83,6 @@ A capstone project built to tackle the challenges of modern restaurant staffing 
 ---
 
 > _"This project challenged me to combine hardware, code, and control theory into a working solution—laying the foundation for my continued work in robotics and intelligent systems."_
-
-
 
 ---
 
