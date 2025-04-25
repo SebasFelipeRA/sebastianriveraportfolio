@@ -16,7 +16,7 @@ This project explored **human pose estimation** using four state-of-the-art mode
 
 We utilized the **Microsoft COCO val2017 dataset** with over 5,000 images annotated with 17 human keypoints. Each model was benchmarked using industry-standard metrics such as **Percentage of Correct Keypoints (PCK)** and **Mean Average Precision (mAP)**.
 
-📄 **[Download the Full Report (PDF)](sebastianriveraportfolio/docs/pdf/SEP740_Project_Report.pdf)**
+📄 **[Download the Full Report (PDF)](/sebastianriveraportfolio/docs/pdf/SEP740_Project_Report.pdf)**
 
 ---
 
