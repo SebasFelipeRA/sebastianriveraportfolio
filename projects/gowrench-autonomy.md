@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Autonomous Vehicle Perception System
 permalink: /projects/gowrench-autonomy/
 ---
 
