@@ -3,7 +3,7 @@ layout: default
 title: Sebastian Rivera Portfolio
 ---
 
-## 🚀 Projects
+#🚀 Projects
 
 - [Autonomous Vehicle Perception System 🚗](projects/gowrench-autonomy/)
 - [Skip-the-Servers 🍽️](projects/capstone/)
