@@ -1,4 +1,3 @@
-# 👋 Welcome to My Portfolio
 
 I'm Sebastian Rivera — a Mechatronics Engineer focused on intelligent systems, electric motors, and autonomous robotics.
 
