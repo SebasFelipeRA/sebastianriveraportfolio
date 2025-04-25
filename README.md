@@ -101,16 +101,6 @@ This project was completed during the COVID-19 pandemic with extremely limited r
 > _"This project challenged me to combine hardware, code, and control theory into a working solution—laying the foundation for my continued work in robotics and intelligent systems."_
 
 
-### 🧠 AI-Based Anomaly Detection in MQTT Data Streams
-- **Description**: Created a deep learning model to detect anomalies in IoT sensor data for cybersecurity using LSTM networks.
-- **Key Features**:
-  - Identified duplication, interception, and modification anomalies
-  - Applied time-series deep learning techniques
-- **Tech Stack**: Python, PyTorch, LSTM, MQTT
-- **Links**:
-  - [GitHub Repository](#)
-
----
 # 🧍‍♂️ Human Pose Estimation Using Deep Learning (PoseNet Project)
 
 A research-driven project focused on evaluating leading pose estimation models for real-time human keypoint detection using deep learning and computer vision.
@@ -191,6 +181,86 @@ We utilized the **Microsoft COCO val2017 dataset** with over 5,000 images annota
 ---
 
 > _"Exploring the balance between performance, accuracy, and deployability taught me how to approach deep learning projects with real-world usability in mind."_
+
+# 📡 AI-Based Anomaly Detection in MQTT Data Streams
+
+A deep learning project developed to detect cybersecurity anomalies in IoT-based sensor data using time-series modeling and ensemble methods.
+
+---
+
+## Overview
+
+This project tackled the detection of **duplication**, **interception**, and **modification** attacks in MQTT data streams — common vulnerabilities in connected industrial systems. Using the DAD (Dataset for Anomaly Detection), we implemented and evaluated multiple anomaly detection models, with a primary focus on **LSTM networks** due to their strength in modeling temporal dependencies.
+
+An ensemble strategy combining **LSTM**, **Random Forest**, and **Isolation Forest** was used to boost classification performance via **majority voting**.
+
+📄 **[Download Full Report (PDF)](./docs/pdf/SEP_769_Final_Project_Anomaly_Detection_Final_Report.pdf)**
+
+---
+
+## Key Features
+
+- 🧠 LSTM RNN for time-series anomaly prediction  
+- 🏗️ Majority voting ensemble of LSTM, Random Forest, and Isolation Forest  
+- 📦 Preprocessing includes one-hot encoding, normalization, and SMOTE oversampling  
+- 📊 ROC-AUC scores ~0.99 on unseen test data  
+- 🛡️ Detected cybersecurity anomalies across 7-day MQTT traffic samples  
+
+---
+
+# 🛠️ Engineering Breakdown
+
+### 🔍 Models & Dataset
+- **Dataset**: [DAD - Dataset for Anomaly Detection](https://github.com/dad-repository/dad)  
+- **Features used**: `ip.src`, `tcp.srcport`, `mqtt.clientid`, `mqtt.msgid`, and label  
+- **Models implemented**:
+  - LSTM with dropout layers
+  - Random Forest with `GridSearchCV`
+  - Isolation Forest
+  - Feedforward Neural Network (FNN)
+  - XGBoost
+
+### 🧪 Training Strategy
+- Data split: 60% Train / 20% Validation / 20% Test  
+- Used **SMOTE** to handle class imbalance  
+- Trained over **100 epochs** with **early stopping**  
+- Applied **majority voting** and **stacked ensemble models**
+
+### 📈 Performance Metrics
+- **LSTM ROC-AUC**: 0.986 (test)  
+- **FNN ROC-AUC**: 0.995 (test)  
+- **Stacked Ensemble ROC-AUC**: 0.999 (train), 0.995 (validation)  
+- Achieved near-perfect **precision**, **recall**, and **F1-score**
+
+---
+
+## 💡 Skills Applied
+
+- Deep Learning (LSTM, FFN, XGBoost)
+- Ensemble Learning & Voting Classifiers
+- Cybersecurity anomaly detection
+- Time series data modeling
+- Data preprocessing (scaling, encoding, balancing)
+- Python, PyTorch, scikit-learn, TensorFlow/Keras
+
+---
+
+## 🔮 Future Enhancements
+
+- Expand dataset to include more real-world network scenarios  
+- Incorporate **autoencoders + attention mechanisms**  
+- Deploy model in **real-time monitoring systems**  
+- Cross-domain testing across industries (e.g., healthcare, automotive)
+
+---
+
+### 📍 Project Year: 2024  
+### 🧪 Dataset: DAD (Dataset for Anomaly Detection)  
+### 👥 Team: Ayushi Savani, Twinkal Togadiya, Sebastian Rivera  
+
+---
+
+> _"This project taught me how to architect ensemble models that are both robust and efficient, particularly in detecting hard-to-spot anomalies in time-series data."_
 
 
 ## 🎓 Education
