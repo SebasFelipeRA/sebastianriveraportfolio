@@ -3,7 +3,6 @@ layout: default
 title: Welcome
 ---
 
-<!-- 💡 Hides top title bar, page titles, and nav items inserted by theme -->
 <style>
 .site-title,
 .page-header,
@@ -25,6 +24,8 @@ This is a more detailed view at my past academic projects!
 
 I'm Sebastian Rivera — a Mechatronics Engineer focused on intelligent systems, electric motors, and autonomous robotics.
 
+<a id="projects"></a>
+
 ## 🚀 Projects
 
 - [Autonomous Vehicle Perception System 🚗](projects/gowrench-autonomy/)
@@ -33,4 +34,3 @@ I'm Sebastian Rivera — a Mechatronics Engineer focused on intelligent systems,
 - [MQTT Anomaly Detection 📡](projects/mqtt-anomaly/)
 
 👉 Click a project to explore more!
-
