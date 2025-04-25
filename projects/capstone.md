@@ -1,6 +1,5 @@
 ---
 layout: default
-title: SKIPTHESERVERS Capstone 
 permalink: /projects/capstone/
 ---
 
