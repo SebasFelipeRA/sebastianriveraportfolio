@@ -1,4 +1,4 @@
-Hello! Welcome to my Portfolio, this is a more detailed view at my past academic project!
+Hello! Welcome to my Portfolio, this is a more detailed view at my past academic projects!
 
 I'm Sebastian Rivera — a Mechatronics Engineer focused on intelligent systems, electric motors, and autonomous robotics.
 
