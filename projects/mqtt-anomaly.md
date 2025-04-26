@@ -96,8 +96,6 @@ An ensemble strategy combining **LSTM**, **Random Forest**, and **Isolation Fore
 ---
 
 ### 📍 Project Year: 2024  
-### 🧪 Dataset: DAD (Dataset for Anomaly Detection)  
-
 ---
 
 > _"This project taught me how to design resilient deep learning systems capable of detecting subtle yet critical anomalies in real-world, time-sensitive environments."_
