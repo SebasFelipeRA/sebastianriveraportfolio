@@ -1,1 +1,37 @@
+---
+layout: default
+permalink: /projects/catia-engine/
+---
+
+# 🛠️ CATIA V5R19 – Engine Reverse Engineering
+
+In this project, my team and I manually disassembled a **General Motors Eco-Tec-4 engine** at the **McMaster Automotive Research Center**. The goal was to measure, model, and animate the entire engine using **CATIA V5R19**.
+
+Despite limited access to precision equipment, we successfully created a functional CAD assembly by:
+
+- 📏 Measuring key parts with basic tools
+- ⚙️ Modeling major components in CATIA  
+- 🧱 Focusing on **Block and Head design** (my responsibility)
+
+Due to equipment limitations, we often made **educated assumptions** on less-critical dimensions. This highlighted the importance of **clear team communication**, as all five team members had to synchronize component design based on their individual measurements.
+
+---
+
+## 🧠 Key Contributions
+
+- Modeled the **Engine Block and Head** from physical measurements  
+- Collaborated with team members to align all CAD components  
+- Helped animate a working virtual engine with motion constraints
+
+---
+
+## 📸 Project Screenshot
+
+_Engine animation modeled in CATIA V5R19_
+
+![Engine CAD Animation](/assets/images/catia-engine/catia-overview.png)
+
+---
+
+> _“This project improved my ability to interpret physical parts into digital form, strengthened my design communication, and made me confident working with legacy CAD tools under constraint.”_
 
