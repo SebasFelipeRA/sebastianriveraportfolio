@@ -2,9 +2,19 @@
 layout: default
 permalink: /projects/mqtt-anomaly/
 ---
+
 # 📡 AI-Based Anomaly Detection in MQTT Data Streams
 
 A deep learning project developed to detect cybersecurity anomalies in IoT-based sensor data using time-series modeling and ensemble methods.
+
+---
+
+## 📄 Project Materials
+
+- 📥 [RNN & FNN Code Notebook](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/projects/SEP_769_Final_Project_Code_FINAL_Group7_RNNandFNN.ipynb)
+- 📥 [Preprocessing & Visualization Notebook](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/projects/SEP%20769%20Preprocessing%20Data%20Final%20Project%20Visulization.ipynb)
+- 📄 [Anomaly Detection Instructions (TXT)](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/projects/SEP%20769%20Anomoly%20detection%20instructions.txt)
+- 📄 [Final Project Report (PDF)](/sebastianriveraportfolio/docs/pdf/SEP_769_Final_Project_Anomoly_Detection_Final_Report.pdf)
 
 ---
 
@@ -13,10 +23,6 @@ A deep learning project developed to detect cybersecurity anomalies in IoT-based
 This project tackled the detection of **duplication**, **interception**, and **modification** attacks in MQTT data streams — common vulnerabilities in connected industrial systems. Using the DAD (Dataset for Anomaly Detection), we implemented and evaluated multiple anomaly detection models, with a primary focus on **LSTM networks** due to their strength in modeling temporal dependencies.
 
 An ensemble strategy combining **LSTM**, **Random Forest**, and **Isolation Forest** was used to boost classification performance via **majority voting**.
-
-📄 **[Download Full Report (PDF)](/sebastianriveraportfolio/docs/pdf/SEP_769_Final_Project_Anomoly_Detection_Final_Report.pdf)**
-
-📥 **[Download Anomaly Detection Project (Zip file with code)](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/SEP_769_Code.zip)**
 
 ---
 
@@ -30,7 +36,7 @@ An ensemble strategy combining **LSTM**, **Random Forest**, and **Isolation Fore
 
 ---
 
-# 🛠️ Engineering Breakdown
+## 🛠️ Engineering Breakdown
 
 ### 🔍 Models & Dataset
 - **Dataset**: [DAD - Dataset for Anomaly Detection](https://github.com/dad-repository/dad)  
