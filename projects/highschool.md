@@ -1,7 +1,6 @@
 
 ---
 layout: default
-title: High School Mouse-trap Powered Cart
 permalink: /projects/mousetrap-cart/
 ---
 
