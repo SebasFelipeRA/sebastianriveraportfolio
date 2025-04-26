@@ -11,10 +11,24 @@ A deep learning project developed to detect cybersecurity anomalies in IoT-based
 
 ## 📄 Project Materials
 
-- 📥 [RNN & FNN Code Notebook](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/projects/SEP_769_Final_Project_Code_FINAL_Group7_RNNandFNN.ipynb)
-- 📥 [Preprocessing & Visualization Notebook](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/projects/SEP%20769%20Preprocessing%20Data%20Final%20Project%20Visulization.ipynb)
-- 📄 [Anomaly Detection Instructions (TXT)](https://github.com/SebasFelipeRA/sebastianriveraportfolio/raw/main/assets/projects/SEP%20769%20Anomoly%20detection%20instructions.txt)
-- 📄 [Final Project Report (PDF)](/sebastianriveraportfolio/docs/pdf/SEP_769_Final_Project_Anomoly_Detection_Final_Report.pdf)
+
+#### 📘 View or Run Notebooks
+
+- **RNN & FNN Code Notebook**  
+  🔗 [View on GitHub](https://github.com/SebasFelipeRA/sebastianriveraportfolio/blob/main/assets/projects/SEP_769_Final_Project_Code_FINAL_Group7_RNNandFNN.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SebasFelipeRA/sebastianriveraportfolio/blob/main/assets/projects/SEP_769_Final_Project_Code_FINAL_Group7_RNNandFNN.ipynb)
+
+---
+
+- **Preprocessing & Visualization Notebook**  
+  🔗 [View on GitHub](https://github.com/SebasFelipeRA/sebastianriveraportfolio/blob/main/assets/projects/SEP%20769%20Preprocessing%20Data%20Final%20Project%20Visulization.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SebasFelipeRA/sebastianriveraportfolio/blob/main/assets/projects/SEP%20769%20Preprocessing%20Data%20Final%20Project%20Visulization.ipynb)
+
+---
+
+#### 📄 Additional Project File
+
+- [📄 Anomaly Detection Instructions (TXT)](https://github.com/SebasFelipeRA/sebastianriveraportfolio/blob/main/assets/projects/SEP%20769%20Anomoly%20detection%20instructions.txt)
 
 ---
 
