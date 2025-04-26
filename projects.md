@@ -20,7 +20,6 @@ Explore a collection of engineering projects I've completed throughout high scho
 - [Skip-the-Servers 🍽️](projects/capstone/)
 - [CATIA V5R19 – GM Engine Reverse Engineering 🛠️](projects/catia-engine/)
 - [Fusion 360 Gear-Driven Bike 🚴‍♂️](projects/fusion-bike/)
----
 
 ## 🎓 Master’s Projects
 
