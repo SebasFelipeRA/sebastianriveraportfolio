@@ -13,8 +13,6 @@ Explore a collection of engineering projects I've completed throughout high scho
 
 - [Mouse-Trap Powered Cart 🐭](projects/mousetrap-cart/)
 
----
-
 ## 🎓 Undergraduate Projects
 
 - [Skip-the-Servers 🍽️](projects/capstone/)
