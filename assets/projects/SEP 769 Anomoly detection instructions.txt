@@ -1,0 +1,78 @@
+dad 
+
+
+## Data Preparation
+The dataset consists of multiple CSV files containing labeled network traffic data. Ensure that all CSV files are placed in a directory where the script can access them.
+
+### CSV Files:
+- capture_1910210000_labels.csv
+- capture_1910220000_labels.csv
+- capture_1910230000_labels.csv
+- capture_1910240000_labels.csv
+- capture_1910250000_labels.csv
+- capture_1910260000_labels.csv
+- capture_1910270000_labels.csv
+
+These files should be located in the same directory as the script or adjust the file paths accordingly in the script. you can find this repository at https://github.com/dad-repository/dad/blob/master/README.md
+
+## Running the Code
+1. **Load and Preprocess the Data:**
+   The code reads the CSV files, merges them into a single dataset using concatenate, and preprocesses the data by filling missing values with zeros, encoding categorical variables, and scaling numerical features.
+
+2. **Training and Evaluation:**
+   The script splits the data into training, validation, and test sets. It then applies SMOTE to handle class imbalance, trains a Random Forest model, an Isolation Forest model, and an LSTM model. Finally, it combines the predictions from all models using majority voting and evaluates the combined model’s performance. The FNN model similar but the purpose of this fiel tis to explain how it can run on your system and not the specifics. 
+
+3. **Running the Script:**
+   Simply run the script using Python:
+
+The visualization code can be run by the instructions below,
+
+# Project Title: Anomaly Detection and Time Series Analysis
+
+## Prerequisites
+To run this code, you need to have Python installed on your machine along with the necessary Python packages. The project was developed using Python 3.8, but it should be compatible with other versions as well.
+
+### Required Python Packages
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+
+You can install the required packages using pip, if you are not running this on googlcolab, if you are then you can ignore the pip install commands. 
+
+
+## Data Preparation
+The dataset is a CSV file that contains network traffic data with labels indicating whether each data point is normal or anomalous.
+
+### CSV File: example, but there are 7 excel files to replicate this with 
+- capture_1910250000_labels.csv
+
+Ensure that the CSV file is located in the specified path or adjust the path accordingly in the script.
+
+## Running the Code
+1. **Load and Preprocess the Data:**
+   The script loads the CSV file, preprocesses the data by filling missing values, one-hot encoding categorical variables, and normalizing numerical columns.
+
+2. **Estimate Time for Each Data Point:**
+   The script estimates the time for each row in the dataset assuming it represents continuous data over a single day.
+
+3. **Generates Anomaly Detection Report:**
+   The script generates a detailed report on the detected anomalies, including:
+   - Total number of anomalies for the day
+   - Frequency of anomalies by hour 
+   - Anomalies occurring during specific periods
+   - Visualizations showing the frequency of anomalies by time of day and anomalies over time.
+
+4. **Running the Script:**
+   Simply run the script using Python:
+
+The script will output the anomaly detection report and generate the necessary plots.
+
+## Notes
+- Ensure that the path to the CSV file (`labels_csv_path`) is correctly set in the script.
+
+
+## Reproducibility
+The code and results can be fully reproduced by following the instructions provided in this README. If any issues arise, ensure that all dependencies are correctly installed and that the data file is properly formatted and located.
+
+
