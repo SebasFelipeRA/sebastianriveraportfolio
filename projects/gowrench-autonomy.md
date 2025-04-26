@@ -11,7 +11,7 @@ A Master’s-level engineering project focused on solving real-world mobility ch
 
 ## Overview
 
-In collaboration with GoWrench Inc., we developed a **Level 4 autonomous off-road navigation system** using ROS, GNSS localization, and real-time camera-based segmentation. The system enables robots to follow preplanned routes while navigating around obstacles with high precision using Jetson Orin and Oak-D cameras.
+In collaboration with GoWrench Inc., we developed and approximated a **Level 4 autonomous off-road navigation system** using ROS, GNSS localization, and real-time camera-based segmentation. The system enables robots to follow preplanned routes while navigating around obstacles with high precision using Jetson Orin and Oak-D cameras.
 
 The project used the Husky UGV as a research platform and simulated GNSS and IMU data to validate algorithms before real-world deployment. Visual perception was enhanced using YOLOv8 and YOLOP models, which provided both semantic segmentation and depth estimation via stereo vision.
 
