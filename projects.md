@@ -16,7 +16,7 @@ Explore a collection of engineering projects I've completed throughout high scho
 ## 🎓 Undergraduate Projects
 
 - [Skip-the-Servers 🍽️](projects/capstone/)
-- [CATIA V5R19 – GM Engine Reverse Engineering 🛠️](projects/CATIA-V5R19/)
+- [CATIA V5R19 – GM Engine Reverse Engineering 🛠️](projects/catia-v5r19/)
 - [Fusion 360 Gear-Driven Bike 🚴‍♂️](projects/fusion-bike/)
 
 ## 🎓 Master’s Projects
