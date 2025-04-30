@@ -28,11 +28,23 @@ The handlebars were modeled after racing bike geometry to maintain a lightweight
 
 ---
 
-## 📸 Design Screenshot
+## 📸 Design Screenshots
 
-![Fusion 360 Bike Model](/assets/images/fusion-bike/fusion-bike-screenshot.png)
+Below are some featured renders from my Fusion 360 models:
+
+![Fusion 1](/assets/projects/fusion1.png)  
+![Fusion 2](/assets/projects/fusion2.png)  
+![Fusion 3](/assets/projects/fusion3.png)  
+![Fusion 4](/assets/projects/fusion4.png)  
+![Fusion 5](/assets/projects/fusion5.png)  
+![Fusion 6](/assets/projects/fusion6.png)  
+![Fusion 7](/assets/projects/fusion7.png)  
+![Fusion 8](/assets/projects/fusion8.png)  
+![Fusion - KOBE Tribute](/assets/projects/fusionKOBE.png)  
+![Fusion - LBJ Tribute](/assets/projects/fusionlbj.png)  
 
 ---
 
-_This project allowed me to merge personal inspiration with modern mechanical modeling — delivering both functionality and style._
+_This project allowed me to blend technical accuracy with personal expression — resulting in models that are both mechanically sound and visually meaningful._
 
+[🔙 Back to Projects](../projects.md)
