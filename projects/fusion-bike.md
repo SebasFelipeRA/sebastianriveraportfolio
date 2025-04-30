@@ -32,13 +32,16 @@ The handlebars were modeled after racing bike geometry to maintain a lightweight
 
 Below are some featured renders from my Fusion 360 models:
 
-<img src="../../assets/projects/catia1.png" alt="CATIA Model 1" width="500"/>  
-<img src="../../assets/projects/catia2.png" alt="CATIA Model 2" width="500"/>  
-<img src="../../assets/projects/catia3.png" alt="CATIA Model 3" width="500"/>  
-<img src="../../assets/projects/catia4.png" alt="CATIA Model 4" width="500"/>  
-<img src="../../assets/projects/catia5.png" alt="CATIA Model 5" width="500"/>  
-<img src="../../assets/projects/catia6.png" alt="CATIA Model 6" width="500"/>
-
+<img src="/sebastianriveraportfolio/assets/projects/fusion1.png" alt="Fusion 1" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusion2.png" alt="Fusion 2" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusion3.png" alt="Fusion 3" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusion4.png" alt="Fusion 4" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusion5.png" alt="Fusion 5" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusion6.png" alt="Fusion 6" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusion7.png" alt="Fusion 7" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusion8.png" alt="Fusion 8" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusionKOBE.png" alt="Fusion KOBE" width="500"/>  
+<img src="/sebastianriveraportfolio/assets/projects/fusionlbj.png" alt="Fusion LBJ" width="500"/>
 
 ---
 
