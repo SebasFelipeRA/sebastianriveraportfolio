@@ -1,7 +1,7 @@
 
 ---
 layout: default
-permalink: /projects/mousetrap-cart/
+permalink: projects/mousetrap-cart/
 ---
 
 # 🐭 High School Mouse-trap Powered Cart
