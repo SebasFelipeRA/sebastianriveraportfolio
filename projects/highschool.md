@@ -30,5 +30,15 @@ By connecting an elongated arm to the wheels via **fishing line**, I maximized t
 
 ## 📸 Photos
 
-_You can embed photos here if you upload them to:_
+Below are images showcasing different views and stages of the mouse-trap powered cart project.
 
+![Side View](../../assets/projects/mousetrapcart1.png)
+![Top View](../../assets/projects/mousetrapcart2.png)
+![Angled View](../../assets/projects/mousetrapcart3.png)
+![Action Shot](../../assets/projects/mousetrapcart4.png)
+
+- Hands-on experience with physical prototyping
+- Fundamentals of converting stored spring energy into motion
+- Creative problem-solving with material constraints
+
+[🔙 Back to Projects](../projects)
