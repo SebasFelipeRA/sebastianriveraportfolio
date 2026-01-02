@@ -12,8 +12,7 @@ A hands-on personal project focused on CNC workflows — from CAD/CAM planning t
 
 | | |
 |---|---|
-| ![Coaster v1]({{ "/assets/projects/cnc/coaster v1.jpg" | relative_url }}) | ![Final piece]({{ "/assets/projects/cnc/final-piece-01.jpg" | relative_url }}) |
-| ![Fixturing setup]({{ "/assets/projects/cnc/fixture-setup-01.jpg" | relative_url }}) | ![Machine + workflow]({{ "/assets/projects/cnc/machine-workflow-01.jpg" | relative_url }}) |
+| ![Coaster v1](../../assets/projects/cnc/coaster%20v1.jpg)
 
 * * *
 
