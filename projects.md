@@ -30,7 +30,6 @@ Explore a collection of engineering projects I've completed throughout high scho
 - [CNC Woodcutting with Genmitsu 3018-Prover 🪵](projects/cnc-woodcutting/)
 - [Professional Develpoment](projects/professional-development/)
 - [Portfolio Website (This Site!) 🌐](https://github.com/SebasFelipeRA/sebastianriveraportfolio)
--
 
 ---
 
