@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional Development
-permalink: /workplace/
+permalink: /projects/professional-development/
 ---
 
 A running record of the skills, tools, and structured learning I’ve built alongside my engineering work.
