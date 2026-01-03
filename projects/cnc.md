@@ -8,17 +8,6 @@ A hands-on personal project focused on CNC workflows — from CAD/CAM planning t
 
 * * *
 
-## Gallery
-
-![Coaster v1](../../assets/projects/coaster%20v1.jpg)
-
-![Coaster v1 (2nd)](../../assets/projects/cnc/coaster%20v1%202nd%20pic.jpg)
-
-![Coasters production](../../assets/projects/cnc/coasters%20production.jpg)
-
-
-* * *
-
 ## Overview
 
 These project are where I practice repeatable CNC workflows: designing parts, preparing toolpaths, setting up the stock consistently, and refining the process until the output is clean and predictable. The goal is always the same: reliable results and a process I can reuse.
@@ -61,4 +50,13 @@ I started out only using the CNC to make fixtures and iterate prototypes, I soon
 
 * * *
 
+## Gallery
+
+![Coaster v1](../../assets/projects/coaster%20v1.jpg)
+
+![Coaster v1 (2nd)](../../assets/projects/coaster%20v1%202nd%20pic.jpg)
+
+![Coasters production](../../assets/projects/coasters%20production.jpg)
+
+![Coasters production](../../assets/projects/developmentv1%coaster.jpg)
 
