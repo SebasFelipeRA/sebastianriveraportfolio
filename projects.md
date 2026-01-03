@@ -28,7 +28,7 @@ Explore a collection of engineering projects I've completed throughout high scho
 ## 🛠️ Personal Projects
 
 - [CNC Woodcutting with Genmitsu 3018-Prover 🪵](projects/cnc-woodcutting/)
-- [Professional Develpoment](projects/professional-development/)
+- [Professional Develpoment](projects/workplace/)
 - [Portfolio Website (This Site!) 🌐](https://github.com/SebasFelipeRA/sebastianriveraportfolio)
 
 ---
