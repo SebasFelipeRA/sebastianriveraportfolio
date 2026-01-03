@@ -60,3 +60,7 @@ I started out only using the CNC to make fixtures and iterate prototypes, I soon
 
 ![Coasters production](../../assets/projects/developmentv1%coaster.jpg)
 
+![Coasters production](../../assets/projects/cnc%fixture.jpg)
+
+![Coasters production](../../assets/projects/cnc%in%progress.jpg)
+
