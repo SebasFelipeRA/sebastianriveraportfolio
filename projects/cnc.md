@@ -9,10 +9,14 @@ A hands-on personal project focused on CNC workflows — from CAD/CAM planning t
 * * *
 
 ## Gallery
+## Gallery
 
-| | |
-|---|---|
-| ![Coaster v1](../../assets/projects/cnc/coaster%20v1.jpg) |
+![Coaster v1](../../assets/projects/cnc/coaster%20v1.jpg)
+
+![Coaster v1 (2nd)](../../assets/projects/cnc/coaster%20v1%202nd%20pic.jpg)
+
+![Coasters production](../../assets/projects/cnc/coasters%20production.jpg)
+
 
 * * *
 
