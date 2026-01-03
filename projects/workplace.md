@@ -1,7 +1,7 @@
 ---
 layout: deafult
 title: Professional Development
-permalink: /worplace/
+permalink: /workplace/
 ---
 
 A running record of the skills, tools, and structured learning I’ve built alongside my engineering work.
