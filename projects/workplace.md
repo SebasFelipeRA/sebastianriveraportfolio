@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Professional Development
 permalink: /workplace/
 ---
 
