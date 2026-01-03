@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /workplace/
 ---
 
@@ -42,23 +42,23 @@ A running record of the skills, tools, and structured learning I’ve built alon
 
 ## Tugger Handle Photos and CMM Tooling
 
-![tugger door handle in action v1]({{ "/assets/projects/tugger%20door%20handle%20in%20action%20v1.jpg" | relative_url }})
+![tugger door handle in action v1](../../assets/projects/tugger%20door%20handle%20in%20action%20v1.jpg)
 
-![tugger door handle in action v2]({{ "/assets/projects/tugger%20door%20handle%20in%20action%20v2.jpg" | relative_url }})
+![tugger door handle in action v2](../../assets/projects/tugger%20door%20handle%20in%20action%20v2.jpg) 
 
-![tugger door handle in action]({{ "/assets/projects/tugger%20door%20handle%20in%20action.jpg" | relative_url }})
+![tugger door handle in action](../../assets/projects/tugger%20door%20handle%20in%20action.jpg) 
 
-![tugger window handle v1]({{ "/assets/projects/tugger%20window%20handle%20v1.jpg" | relative_url }})
+![tugger window handle v1](../../assets/projects/tugger%20window%20handle%20v1.jpg) 
 
-![tugger window handle v2]({{ "/assets/projects/tugger%20window%20handle%20v2.jpg" | relative_url }})
+![tugger window handle v2](../../assets/projects/tugger%20window%20handle%20v2.jpg) 
 
-![tugger window handle v3]({{ "/assets/projects/tugger%20window%20handle%20v3.jpg" | relative_url }})
+![tugger window handle v3](../../assets/projects/tugger%20window%20handle%20v3.jpg) 
 
-![tugger window handle v4 top]({{ "/assets/projects/tugger%20window%20handle%20v4%20top.jpg" | relative_url }})
+![tugger window handle v4 top](../../assets/projects/tugger%20window%20handle%20v4%20top.jpg) 
 
-![tugger window handle v4]({{ "/assets/projects/tugger%20window%20handle%20v4.jpg" | relative_url }})
+![tugger window handle v4](../../assets/projects/tugger%20window%20handle%20v4.jpg) 
 
-![tugger window handle]({{ "/assets/projects/tugger%20window%20handle.jpg" | relative_url }})
+![tugger window handle](../../assets/projects/tugger%20window%20handle.jpg) 
 
 
 
