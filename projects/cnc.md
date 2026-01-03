@@ -64,3 +64,7 @@ I started out only using the CNC to make fixtures and iterate prototypes, I soon
 
 ![Cnc_in_progress](../../assets/projects/cnc%20in%20progress.jpg)
 
+
+***
+##Additional Notes
+Above you can observe a few of my desgins and art work I have produced using the cnc. Many lessons were learned with uing epoxy, painting and manufacturing things at home. Something do not turn out how I orginally planned but thorugh trial and error they got pretty close. Paint colours and the steps to apply the varnish and a more methodical structured application could improve the finish. As you can see the 3d printed fixture is keeping the work piece in the center of the machine and horzontally parallel to the bed of the cnc. This use of 3d printing is the most ideal as it eliminates extra wood from being wasted and allows full custom fixtures to be desgined and imlpemented while retaining the orgin position when aligning the workpiece to the machine workspace. 
