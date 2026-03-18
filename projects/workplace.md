@@ -47,7 +47,7 @@ Prototyping has always been one of the most rewarding parts of engineering for m
 * * *
 
 
-## Tugger Handle Photos, CMM Tooling and FEature Displays
+## Tugger Handle Photos, CMM Tooling and Feature Displays
 
 
 <p align="center">
