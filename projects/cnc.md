@@ -76,7 +76,36 @@ I started out only using the CNC to make fixtures and iterate prototypes, I soon
   <img src="../../assets/projects/cnc%20in%20progress.jpg" alt="CNC in progress" width="70%" />
 </p>
 
+<p align="center">
+  <img src="../../assets/projects/CNC%20clock%20in%20action.jpeg" alt="CNC clock in action" width="70%" />
+</p>
 
-***
-##Additional Notes
-Above you can observe a few of my desgins and art work I have produced using the cnc. Many lessons were learned with uing epoxy, painting and manufacturing things at home. Something do not turn out how I orginally planned but thorugh trial and error they got pretty close. Paint colours and the steps to apply the varnish and a more methodical structured application could improve the finish. As you can see the 3d printed fixture is keeping the work piece in the center of the machine and horzontally parallel to the bed of the cnc. This use of 3d printing is the most ideal as it eliminates extra wood from being wasted and allows full custom fixtures to be desgined and imlpemented while retaining the orgin position when aligning the workpiece to the machine workspace. 
+<p align="center">
+  <img src="../../assets/projects/CNC%20clock%20v2.png" alt="CNC clock v2" width="70%" />
+</p>
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20Clock.png" alt="CNC Clock" width="70%" />
+</p>
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20Curing%20process.jpeg" alt="CNC Curing process" width="70%" />
+</p>
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20manufacturing%20process.jpeg" alt="CNC manufacturing process" width="70%" />
+</p>
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20Packaged%20Gift.jpeg" alt="CNC Packaged Gift" width="70%" />
+</p>
+
+#---
+
+## Additional Notes
+
+Above are a few of the designs and pieces of artwork I created using the CNC. Working on these taught me a lot about epoxy, painting, and making things at home. Not everything turned out exactly how I first imagined, but through trial and error I was able to get much closer to the result I wanted.
+
+One of the biggest lessons was how much the final finish depends on process. Paint choice, varnish application, and a more structured step-by-step approach can all improve the overall quality.
+
+As shown above, the 3D-printed fixture keeps the workpiece centered and horizontally aligned with the CNC bed. I see this as a very practical use of 3D printing because it reduces wasted material and makes it possible to create custom fixtures quickly and efficiently.
