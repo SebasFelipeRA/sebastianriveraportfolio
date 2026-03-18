@@ -89,7 +89,10 @@ I started out only using the CNC to make fixtures and iterate prototypes, I soon
 </p>
 
 <p align="center">
-  <img src="../../assets/projects/CNC%20Curing%20process.jpeg" alt="CNC Curing process" width="70%" />
+  <img src="../../assets/projects/CNC%20Curing%20process.jpeg"
+       alt="CNC Curing process"
+       width="50%"
+       style="transform: rotate(45deg);" />
 </p>
 
 <p align="center">
