@@ -100,8 +100,6 @@ I started out only using the CNC to make fixtures and iterate prototypes, I soon
   <img src="../../assets/projects/CNC%20Packaged%20Gift.jpeg" alt="CNC Packaged Gift" width="70%" />
 </p>
 
-
-
 * * *
 
 
