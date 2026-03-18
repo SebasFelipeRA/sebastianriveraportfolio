@@ -52,17 +52,29 @@ I started out only using the CNC to make fixtures and iterate prototypes, I soon
 
 ## Gallery
 
-![Coaster v1](../../assets/projects/coaster%20v1.jpg)
+<p align="center">
+  <img src="../../assets/projects/coaster%20v1.jpg" alt="Coaster v1" width="70%" />
+</p>
 
-![Coaster v1 (2nd)](../../assets/projects/coaster%20v1%202nd%20pic.jpg)
+<p align="center">
+  <img src="../../assets/projects/coaster%20v1%202nd%20pic.jpg" alt="Coaster v1 second view" width="70%" />
+</p>
 
-![Coasters production](../../assets/projects/coasters%20production.jpg)
+<p align="center">
+  <img src="../../assets/projects/coasters%20production.jpg" alt="Coasters production" width="70%" />
+</p>
 
-![Development Coaster](../../assets/projects/developmentv1%20coaster.jpg)
+<p align="center">
+  <img src="../../assets/projects/developmentv1%20coaster.jpg" alt="Development coaster" width="70%" />
+</p>
 
-![Cnc fixture](../../assets/projects/cnc%20fixture.jpg)
+<p align="center">
+  <img src="../../assets/projects/cnc%20fixture.jpg" alt="CNC fixture" width="70%" />
+</p>
 
-![Cnc_in_progress](../../assets/projects/cnc%20in%20progress.jpg)
+<p align="center">
+  <img src="../../assets/projects/cnc%20in%20progress.jpg" alt="CNC in progress" width="70%" />
+</p>
 
 
 ***
