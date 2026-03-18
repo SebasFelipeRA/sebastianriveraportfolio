@@ -43,23 +43,45 @@ A running record of the skills, tools, and structured learning I’ve built alon
 
 ## Tugger Handle Photos and CMM Tooling
 
-![tugger door handle in action v1](../../assets/projects/tugger%20door%20handle%20in%20action%20v1.jpg)
+## Tugger Handle Photos and CMM Tooling
 
-![tugger door handle in action v2](../../assets/projects/tugger%20door%20handle%20in%20action%20v2.jpg) 
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures.jpeg" width="700" />
+</p>
 
-![tugger door handle in action](../../assets/projects/tugger%20door%20handle%20in%20action.jpg) 
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures%20Sahft%201st%20Iteration%20p1.jpeg" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures%20Sahft%201st%20Iteration%20p2.jpeg" width="48%" />
+</p>
 
-![tugger window handle v1](../../assets/projects/tugger%20window%20handle%20v1.jpg) 
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Front%20View.jpeg" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Left%20Side%20View.jpeg" width="48%" />
+</p>
 
-![tugger window handle v2](../../assets/projects/tugger%20window%20handle%20v2.jpg) 
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Top%20View.jpeg" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Bottom%20View.jpeg" width="48%" />
+</p>
 
-![tugger window handle v3](../../assets/projects/tugger%20window%20handle%20v3.jpg) 
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Back%20View.jpeg" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Placement.jpeg" width="48%" />
+</p>
 
-![tugger window handle v4 top](../../assets/projects/tugger%20window%20handle%20v4%20top.jpg) 
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Endcap%20Laser%20Etching%20Engineering%20R%26D.jpeg" width="700" />
+</p>
 
-![tugger window handle v4](../../assets/projects/tugger%20window%20handle%20v4.jpg) 
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Fresh%20out%20the%20OVEN%20Lamination%20Displays%20-%20Rotor.jpeg" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/Lamination%20Displays%20-%20Rotor.jpeg" width="48%" />
+</p>
 
-![tugger window handle](../../assets/projects/tugger%20window%20handle.jpg) 
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Lamination%20Displays%20-%20Rotor%20p2.jpeg" width="700" />
+</p>
+
 
 
 
