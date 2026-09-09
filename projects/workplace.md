@@ -47,48 +47,137 @@ Prototyping has always been one of the most rewarding parts of engineering for m
 * * *
 
 
-## Tugger Handle Photos, CMM Tooling and Feature Displays
+## Shop Floor Work: Handles, Inspection Fixtures & Feature Displays
 
+Alongside the analysis and documentation side of my work, a lot of what I do is physical: design a part, print it, put it on the equipment, and see whether it holds up in use. The projects below are examples of that loop — operator handles for tugger cabs, printed nesting fixtures for CMM inspection, and finished display pieces used to show process capability.
 
-<p align="center">
-  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures.jpeg" width="700" />
-</p>
+---
 
-<p align="center">
-  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures%20Sahft%201st%20Iteration%20p1.jpeg" width="48%" />
-  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures%20Sahft%201st%20Iteration%20p2.jpeg" width="48%" />
-</p>
+### Tugger Cab Handles
 
-<p align="center">
-  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Front%20View.jpeg" width="48%" />
-  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Left%20Side%20View.jpeg" width="48%" />
-</p>
+The sliding glass on the tugger cabs had no dedicated grip, so operators were pulling on the bare edge of the pane. I modelled a clip-on handle that hooks over that edge: an inner jaw grips the glass, and the outer face rolls into a curved lip that gives the hand something to pull against. The part clamps on directly, so no drilling or permanent modification to the cab is needed.
+
+**Prototyping.** Grey PLA iterations, used to work out jaw depth, how tightly the clip held on the glass, and how the curved lip sat under the hand.
 
 <p align="center">
-  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Top%20View.jpeg" width="48%" />
-  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Bottom%20View.jpeg" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20window%20handle%20v1.jpg" alt="First grey PLA prototype of the clip-on window handle" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20window%20handle%20v2.jpg" alt="Second prototype with revised clip jaw" width="48%" />
 </p>
+<p align="center"><em>Early prototypes. The inner jaw and the curved pull lip were the two features that changed most between revisions.</em></p>
 
 <p align="center">
-  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Back%20View.jpeg" width="48%" />
-  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Placement.jpeg" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20window%20handle%20v3.jpg" alt="Third prototype iteration of the window handle" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20window%20handle.jpg" alt="Prototype and final handles lined up on the bench" width="48%" />
 </p>
+<p align="center"><em>Left: a later grey revision. Right: prototypes and finished black parts lined up together to compare the profile change.</em></p>
+
+**Final parts.** The production version printed in black, with a deeper finger relief and a fuller radius on the pull lip.
 
 <p align="center">
-  <img src="/sebastianriveraportfolio/assets/projects/Endcap%20Laser%20Etching%20Engineering%20R%26D.jpeg" width="700" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20window%20handle%20v4.jpg" alt="Final black printed handle, angled view" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20window%20handle%20v4%20top.jpg" alt="Final black printed handle, top view showing the clip jaw" width="48%" />
 </p>
+<p align="center"><em>Final revision. The top view shows the jaw that grips the glass and the channel behind it.</em></p>
+
+**Installed on the equipment.**
 
 <p align="center">
-  <img src="/sebastianriveraportfolio/assets/projects/Fresh%20out%20the%20OVEN%20Lamination%20Displays%20-%20Rotor.jpeg" width="48%" />
-  <img src="/sebastianriveraportfolio/assets/projects/Lamination%20Displays%20-%20Rotor.jpeg" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20door%20handle%20in%20action%20v1.jpg" alt="Handle clipped onto the vertical edge of the cab door glass" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20door%20handle%20in%20action%20v2.jpg" alt="Handle clipped onto the top edge of the sliding glass" width="48%" />
 </p>
+<p align="center"><em>Mounted on the cab. The same part works on both the vertical door edge and the top edge of the sliding window.</em></p>
 
 <p align="center">
-  <img src="/sebastianriveraportfolio/assets/projects/Lamination%20Displays%20-%20Rotor%20p2.jpeg" width="700" />
+  <img src="/sebastianriveraportfolio/assets/projects/tugger%20door%20handle%20in%20action.jpg" alt="Printed oval placard with engraved pictograms mounted on the cab door frame" width="700" />
 </p>
+<p align="center"><em>A printed placard with engraved pictograms, mounted on the door frame alongside the handle work.</em></p>
 
+<p align="center">
+  <video controls width="700" preload="metadata">
+    <source src="/sebastianriveraportfolio/assets/projects/tugger%20video%20for%20door%20handle.mp4" type="video/mp4">
+    Your browser does not support embedded video.
+  </video>
+</p>
+<p align="center"><em>Short clip of the handle in use on the cab door.</em></p>
 
+---
 
+### CMM Inspection Fixtures
+
+Printed nesting fixtures that hold splined shafts in a repeatable position for inspection. Each shaft drops into a matched cradle, so parts land the same way every cycle instead of being set up by eye. Printing the fixtures rather than machining them made it cheap to revise a cradle profile when a part changed.
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/cmm%20tooling.jpg" alt="Five splined shafts nested in printed fixtures inside the inspection machine" width="700" />
+</p>
+<p align="center"><em>A full set of shafts loaded in the nesting fixtures inside the inspection enclosure.</em></p>
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/2cmm%20tooling%201.jpg" alt="Side view of the loaded fixture plate showing the matched cradles" width="700" />
+</p>
+<p align="center"><em>Side view. The scalloped cradles set the height and orientation of each shaft.</em></p>
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/cmm%20tooling%201.jpg" alt="Close-up of the printed fixture plates showing exposed lattice infill" width="700" />
+</p>
+<p align="center"><em>Close-up of the plates. The exposed lattice infill keeps the fixtures light and quick to print without giving up rigidity.</em></p>
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures.jpeg" alt="CMM fixture assembly on the inspection table" width="700" />
+</p>
+<p align="center"><em>The fixture assembly on the inspection table.</em></p>
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures%20Sahft%201st%20Iteration%20p1.jpeg" alt="First iteration of the shaft fixture, view one" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/CMM%20Fixtures%20Sahft%201st%20Iteration%20p2.jpeg" alt="First iteration of the shaft fixture, view two" width="48%" />
+</p>
+<p align="center"><em>First iteration of the shaft fixture, before the cradle profile was revised.</em></p>
+
+---
+
+### Honda Cover — Inspection Views
+
+A cover component photographed from each face for inspection and documentation, so the same set of reference views exists for every part reviewed.
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Front%20View.jpeg" alt="Honda cover, front view" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Left%20Side%20View.jpeg" alt="Honda cover, left side view" width="48%" />
+</p>
+<p align="center"><em>Front and left side.</em></p>
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Top%20View.jpeg" alt="Honda cover, top view" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Bottom%20View.jpeg" alt="Honda cover, bottom view" width="48%" />
+</p>
+<p align="center"><em>Top and bottom.</em></p>
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Back%20View.jpeg" alt="Honda cover, back view" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/Honda%20Cover%20Placement.jpeg" alt="Honda cover shown in its mounted placement" width="48%" />
+</p>
+<p align="center"><em>Back view, and the cover shown in its mounted placement.</em></p>
+
+---
+
+### Laser Etching & Lamination Displays
+
+Feature displays built to show finished surface and process quality — pieces used to demonstrate capability rather than to go into a product.
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Endcap%20Laser%20Etching%20Engineering%20R%26D.jpeg" alt="Laser-etched endcap produced during engineering R and D" width="700" />
+</p>
+<p align="center"><em>Laser-etched endcap from engineering R&amp;D work.</em></p>
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Fresh%20out%20the%20OVEN%20Lamination%20Displays%20-%20Rotor.jpeg" alt="Rotor lamination display fresh out of the oven" width="48%" />
+  <img src="/sebastianriveraportfolio/assets/projects/Lamination%20Displays%20-%20Rotor.jpeg" alt="Finished rotor lamination display" width="48%" />
+</p>
+<p align="center"><em>Rotor lamination display, straight out of the oven and then finished.</em></p>
+
+<p align="center">
+  <img src="/sebastianriveraportfolio/assets/projects/Lamination%20Displays%20-%20Rotor%20p2.jpeg" alt="Second finished rotor lamination display" width="700" />
+</p>
+<p align="center"><em>A second finished rotor display.</em></p>
+
+---
 
 > I treat learning like engineering: build, test, document, improve — repeat.
-

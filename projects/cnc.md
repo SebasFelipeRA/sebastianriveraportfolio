@@ -52,53 +52,85 @@ I started out only using the CNC to make fixtures and iterate prototypes, I soon
 
 ## Gallery
 
-<p align="center">
-  <img src="../../assets/projects/coaster%20v1.jpg" alt="Coaster v1" width="70%" />
-</p>
+A walk through the work, roughly in the order it happened: early coaster tests, the fixturing and machining setup, the clock builds, and the finishing steps that turned raw cut parts into gifts.
+
+### Coasters — the first real runs
 
 <p align="center">
-  <img src="../../assets/projects/coaster%20v1%202nd%20pic.jpg" alt="Coaster v1 second view" width="70%" />
+  <img src="../../assets/projects/developmentv1%20coaster.jpg" alt="Development version of the coaster design" width="70%" />
 </p>
+<p align="center"><em>The development coaster — the first pass used to check the toolpath and cut depth before committing to a full set.</em></p>
 
 <p align="center">
-  <img src="../../assets/projects/coasters%20production.jpg" alt="Coasters production" width="70%" />
+  <img src="../../assets/projects/coaster%20v1.jpg" alt="Finished coaster, version one" width="70%" />
 </p>
+<p align="center"><em>Version one, cut and finished.</em></p>
 
 <p align="center">
-  <img src="../../assets/projects/developmentv1%20coaster.jpg" alt="Development coaster" width="70%" />
+  <img src="../../assets/projects/coaster%20v1%202nd%20pic.jpg" alt="Second view of the finished version one coaster" width="70%" />
 </p>
+<p align="center"><em>A second angle on the same piece, showing the engraved detail.</em></p>
 
 <p align="center">
-  <img src="../../assets/projects/cnc%20fixture.jpg" alt="CNC fixture" width="70%" />
+  <img src="../../assets/projects/coasters%20production.jpg" alt="Multiple coasters partway through a production run" width="70%" />
 </p>
+<p align="center"><em>Running a batch. Repeating the same part is where fixturing and repeatable setup start to matter.</em></p>
+
+### Fixturing and machining
 
 <p align="center">
-  <img src="../../assets/projects/cnc%20in%20progress.jpg" alt="CNC in progress" width="70%" />
+  <img src="../../assets/projects/cnc%20fixture.jpg" alt="Workholding fixture set up on the CNC bed" width="70%" />
 </p>
+<p align="center"><em>Workholding on the 3018 bed. Getting the blank located the same way every time was the single biggest improvement to consistency.</em></p>
 
 <p align="center">
-  <img src="../../assets/projects/CNC%20clock%20in%20action.jpeg" alt="CNC clock in action" width="70%" />
+  <img src="../../assets/projects/cnc%20in%20progress.jpg" alt="CNC mid-cut on a workpiece" width="70%" />
 </p>
-
-<p align="center">
-  <img src="../../assets/projects/CNC%20clock%20v2.png" alt="CNC clock v2" width="70%" />
-</p>
-
-<p align="center">
-  <img src="../../assets/projects/CNC%20Clock.png" alt="CNC Clock" width="70%" />
-</p>
-
-<p align="center">
-  <img src="../../assets/projects/CNC%20Curing%20process.jpeg" alt="CNC Curing process" width="70%" />
-</p>
+<p align="center"><em>Mid-cut.</em></p>
 
 <p align="center">
   <img src="../../assets/projects/CNC%20manufacturing%20process.jpeg" alt="CNC manufacturing process" width="70%" />
 </p>
+<p align="center"><em>The machining step in progress.</em></p>
+
+### Clocks
 
 <p align="center">
-  <img src="../../assets/projects/CNC%20Packaged%20Gift.jpeg" alt="CNC Packaged Gift" width="70%" />
+  <img src="../../assets/projects/clock%20v1.jpg" alt="Square wooden clock face with gold numerals and a red cross motif" width="70%" />
 </p>
+<p align="center"><em>The first clock: a square face, dark stained, with gold numerals and a red cross carved into the centre.</em></p>
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20Clock.png" alt="CNC clock design" width="70%" />
+</p>
+<p align="center"><em>The design behind the first build.</em></p>
+
+<p align="center">
+  <img src="../../assets/projects/clock%20v2.jpg" alt="Round wooden clock with TOTUS IESU lettering, a sacred heart, and brass hands" width="70%" />
+</p>
+<p align="center"><em>The second clock, finished and assembled: a round face with carved lettering, a painted heart at the centre, and brass hands fitted.</em></p>
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20clock%20v2.png" alt="CNC clock version two design" width="70%" />
+</p>
+<p align="center"><em>The version two design. Carrying lettering all the way around the face meant a lot more attention to cut depth and paint control.</em></p>
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20clock%20in%20action.jpeg" alt="Finished clock hung and running" width="70%" />
+</p>
+<p align="center"><em>Hung up and running.</em></p>
+
+### Finishing and packaging
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20Curing%20process.jpeg" alt="Pieces curing after finishing" width="70%" />
+</p>
+<p align="center"><em>Curing. Finish quality turned out to depend as much on this step as on the cut itself.</em></p>
+
+<p align="center">
+  <img src="../../assets/projects/CNC%20Packaged%20Gift.jpeg" alt="Finished piece packaged as a gift" width="70%" />
+</p>
+<p align="center"><em>Packaged and ready to give away — the point most of these were made for.</em></p>
 
 * * *
 
